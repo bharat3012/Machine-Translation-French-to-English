@@ -89,12 +89,6 @@ Target: he is constantly complaining .
 Predicted: he is always dreaming . <EOS>
 ```
 
-## TO-DO
-
-- [x] Decoder Attention
-- [ ] Beam Search Decoding
-- [ ] GloVe Word Embeddings
-
 ## References
 
 - [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
