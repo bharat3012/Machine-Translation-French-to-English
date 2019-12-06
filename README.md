@@ -1,6 +1,5 @@
 # Overview
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9020f72ab88b4f05b2082b94e7efe6de)](https://app.codacy.com/app/pskrunner14/translator?utm_source=github.com&utm_medium=referral&utm_content=pskrunner14/translator&utm_campaign=Badge_Grade_Dashboard)
 
 Machine translation is a sub-field of computational linguistics that investigates the use of software to translate text or speech from one language to another. On a basic level, it performs simple substitution of words in one language for words in another, but that alone usually cannot produce a good translation of a text because recognition of whole phrases and their closest counterparts in the target language is needed. Solving this problem with corpus statistical, and neural techniques is a rapidly growing field that is leading to better translations, handling differences in linguistic typology, translation of idioms, and the isolation of anomalies.
 
@@ -168,7 +167,3 @@ Predicted: i m the one aren t i ? <EOS>
 
 - Python
 - PyTorch
-
-## License
-
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT), see [LICENSE](./LICENSE) for more information.
